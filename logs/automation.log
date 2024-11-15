@@ -1,13 +1,36 @@
-14:53:38.352 [main] INFO  TestCases.TC001_AccountRegistrationTest - *****FInished TC001_AccountRegistrationTest******
-14:53:59.114 [main] INFO  TestCases.TC002_LoginTest - *******Starting TC_002_LoginTest*****
-14:54:06.266 [main] INFO  TestCases.TC002_LoginTest - *******Finished TC_002_LoginTest*****
-08:47:55.046 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Govind\Desktop\ABC\Opencart\testng.xml"
-08:50:07.690 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Govind\Desktop\ABC\Opencart\testng.xml"
-08:50:42.412 [main] INFO  TestCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest*****
-08:50:42.721 [main] INFO  TestCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link...
-08:50:45.138 [main] INFO  TestCases.TC001_AccountRegistrationTest - Clicked on Register Link...
-08:50:45.149 [main] INFO  TestCases.TC001_AccountRegistrationTest - Providing customer details...
-08:50:48.796 [main] INFO  TestCases.TC001_AccountRegistrationTest - Validating expected message...
-08:50:53.130 [main] INFO  TestCases.TC001_AccountRegistrationTest - *****FInished TC001_AccountRegistrationTest******
-08:51:04.223 [main] INFO  TestCases.TC002_LoginTest - *******Starting TC_002_LoginTest*****
-08:51:10.230 [main] INFO  TestCases.TC002_LoginTest - *******Finished TC_002_LoginTest*****
+07:50:00.802 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+07:50:16.630 [main] ERROR TestCases.TC004_Add_To_Cart - Test Failed...
+07:51:13.016 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+07:51:26.813 [main] ERROR TestCases.TC004_Add_To_Cart - Test Failed...
+07:53:31.217 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+07:53:46.344 [main] ERROR TestCases.TC004_Add_To_Cart - Test Failed...
+08:46:25.389 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+08:54:21.033 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+08:54:34.971 [main] ERROR TestCases.TC004_Add_To_Cart - Test Failed...
+08:57:35.946 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+08:57:56.114 [main] INFO  TestCases.TC004_Add_To_Cart - *******Finished TC004_AddToCard_Test*****
+09:26:23.779 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+09:26:35.752 [main] ERROR TestCases.TC004_Add_To_Cart - Test Failed...
+09:30:48.978 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+09:31:07.049 [main] ERROR TestCases.TC004_Add_To_Cart - Test Failed...
+09:37:26.508 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+09:37:50.735 [main] INFO  TestCases.TC004_Add_To_Cart - *******Finished TC004_AddToCard_Test*****
+09:41:27.270 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+09:41:40.845 [main] INFO  TestCases.TC004_Add_To_Cart - *******Finished TC004_AddToCard_Test*****
+09:45:15.009 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+09:57:30.493 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+10:00:51.336 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+10:04:33.042 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+10:04:55.949 [main] INFO  TestCases.TC004_Add_To_Cart - *******Finished TC004_AddToCard_Test*****
+10:11:16.061 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Govind\Desktop\ABC\Opencart\testng.xml"
+10:11:30.290 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+10:11:58.569 [main] INFO  TestCases.TC004_Add_To_Cart - *******Finished TC004_AddToCard_Test*****
+10:13:07.025 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Govind\Desktop\ABC\Opencart\testng.xml"
+10:13:20.087 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+10:13:44.067 [main] INFO  TestCases.TC004_Add_To_Cart - *******Finished TC004_AddToCard_Test*****
+10:17:39.972 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Govind\Desktop\ABC\Opencart\testng.xml"
+10:18:08.759 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+10:18:59.173 [main] INFO  TestCases.TC004_Add_To_Cart - *******Finished TC004_AddToCard_Test*****
+10:21:12.215 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Govind\Desktop\ABC\Opencart\testng.xml"
+10:21:35.616 [main] INFO  TestCases.TC004_Add_To_Cart - *******Starting TC004_AddToCard_Test*****
+10:22:20.191 [main] INFO  TestCases.TC004_Add_To_Cart - *******Finished TC004_AddToCard_Test*****

@@ -110,7 +110,7 @@
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>7.10.2</version>
-</dependency>
+   </dependency>
 
     <!-- Optionally: parameterized tests support -->
   
