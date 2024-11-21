@@ -17,6 +17,7 @@ public class Search_Page extends BasePage {
 		// TODO Auto-generated constructor stub
 	}
 
+		
 	@FindBy(xpath = "//input[@id='input-email']")
 	WebElement txtEmailAddress;
 
