@@ -103,11 +103,13 @@
 
 
   
-   <dependency>
+   <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<dependency>
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>7.10.2</version>
-   </dependency>
+    <scope>test</scope>
+</dependency>
 
     <!-- Optionally: parameterized tests support -->
   
